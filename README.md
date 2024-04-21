@@ -1,2 +1,2 @@
 
-I tried building space invaders using the pygames library on Python, following the instructions to a YouTube video by freecodecamp.org.
+I endeavored to develop a Space Invaders game using the Pygame library in Python, following the guidelines provided in a tutorial presented by freecodecamp.org on YouTube.
